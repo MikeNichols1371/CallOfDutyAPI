@@ -1,10 +1,13 @@
 ﻿using System.Net.Http;
+using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json.Linq;
 using RestSharp;
 
+Console.WriteLine("Please enter your API key");
+var key = Console.ReadLine();
 var client = new RestClient("https://call-of-duty-modern-warfare.p.rapidapi.com/warzone/Amartin743/psn");
 var request = new RestRequest();
-request.AddHeader("X-RapidAPI-Key", "bdd93daad1msh014c9a6ea950c4dp1096bbjsn3359bafcd30b");
+request.AddHeader("X-RapidAPI-Key", $"{key}");
 request.AddHeader("X-RapidAPI-Host", "call-of-duty-modern-warfare.p.rapidapi.com");
 var response = client.Execute(request);
 

@@ -16,3 +16,6 @@ C:\Users\mnich\OneDrive\Desktop\Repos\CallOfDutyAPI\CallOfDutyAPI\obj\Debug\net6
 C:\Users\mnich\OneDrive\Desktop\Repos\CallOfDutyAPI\CallOfDutyAPI\obj\Debug\net6.0\CallOfDutyAPI.pdb
 C:\Users\mnich\OneDrive\Desktop\Repos\CallOfDutyAPI\CallOfDutyAPI\obj\Debug\net6.0\CallOfDutyAPI.genruntimeconfig.cache
 C:\Users\mnich\OneDrive\Desktop\Repos\CallOfDutyAPI\CallOfDutyAPI\obj\Debug\net6.0\ref\CallOfDutyAPI.dll
+C:\Users\mnich\OneDrive\Desktop\Repos\CallOfDutyAPI\CallOfDutyAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\mnich\OneDrive\Desktop\Repos\CallOfDutyAPI\CallOfDutyAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mnich\OneDrive\Desktop\Repos\CallOfDutyAPI\CallOfDutyAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
